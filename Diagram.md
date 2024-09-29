@@ -18,12 +18,12 @@ M--> N[Enjoy the Cookies!]
 # Process
 1. Gather Ingredients: The first step is to gather all necessary ingredients.
 2. Do you have all ingredients?: A decision point. If you don’t have everything, purchase the ingredients.
-* Yes: If you have everything, proceed to preheat the oven.
-* No: You must go to the store and purchase the missing ingredients.
+  * Yes: If you have everything, proceed to preheat the oven.
+  * No: You must go to the store and purchase the missing ingredients.
 3. Preheat Oven: Begin by preheating the oven to the required temperature.
 4. Is the oven preheated?: A decision point to check if the oven is ready.
-* Yes: If the oven is preheated, move on to mixing ingredients.
-* No: Wait for the oven to finish preheating, then proceed.
+  * Yes: If the oven is preheated, move on to mixing ingredients.
+  * No: Wait for the oven to finish preheating, then proceed.
 5. Mix Dry Ingredients: Combine the dry ingredients (e.g., flour, sugar, baking soda).
 6. Mix Wet Ingredients: Combine the wet ingredients (e.g., butter, eggs, vanilla extract).
 7. Combine Wet and Dry Ingredients: Mix the wet and dry ingredients together to form the dough.
