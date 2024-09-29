@@ -10,3 +10,16 @@
 * I created an account on Github and created a new respository
 * I downloaded Github Desktop and signed in
 * I cloned the respository from the internet onto my local machine
+*****************************************************
+# About Me
+## My Interests
+* Digital Art
+* Gardnening
+* Laser Cutting and Engraving
+* Sewing
+* Cooking
+* Gaming
+## Websites I recommend
+* [Etsy](https://www.etsy.com) - I love this website for selling my unique handmade items and buying from other artisans
+* [Discord](https://www.discord.com) - I love this site for social gaming
+
