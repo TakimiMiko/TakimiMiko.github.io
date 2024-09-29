@@ -1,20 +1,19 @@
-#Process for Making Chocolate Chip Cookies
 '''mermaid
 flowchart TD
-A [Gather Ingredients] --> B{Do you have all the ingredients?}
-B --> |Yes| C[Preheat Oven]
-B --> |No| G [Go to the store to buy ingredients]
-C --> D{Is the oven preheated?}
-D -->|Yes| E[Mix Dry Ingredients]
-D -->|No| H[Wait for oven to preheat]
-H --> D
-E --> F[Mix Wet Ingredients]
-F --> I[Combine Wet and Dry Ingredients]
-I --> J[Add Chocolate Chips]
-J --> K[Form Dough into Balls]
-K --> L[Bake Cookies]
-L --> M[Cool Cookies]
-M --> N[Enjoy the Cookies!]
+A[Gather Ingredients] --> B{Do you have all the ingredients?}
+B--> |Yes| C[Preheat Oven]
+B--> |No| G[Go to the store to buy ingredients]
+C--> D{Is the oven preheated?}
+D-->|Yes| E[Mix Dry Ingredients]
+D-->|No| H[Wait for oven to preheat]
+H--> D
+E--> F[Mix Wet Ingredients]
+F--> I[Combine Wet and Dry Ingredients]
+I--> J[Add Chocolate Chips]
+J--> K[Form Dough into Balls]
+K--> L[Bake Cookies]
+L--> M[Cool Cookies]
+M--> N[Enjoy the Cookies!]
 
 #Process
 1. Gather Ingredients: The first step is to gather all necessary ingredients.
