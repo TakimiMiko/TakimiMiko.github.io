@@ -15,7 +15,7 @@ K--> L[Bake Cookies]
 L--> M[Cool Cookies]
 M--> N[Enjoy the Cookies!]
 
-#Process
+# Process
 1. Gather Ingredients: The first step is to gather all necessary ingredients.
 2. Do you have all ingredients?: A decision point. If you don’t have everything, purchase the ingredients.
 * Yes: If you have everything, proceed to preheat the oven.
@@ -33,7 +33,7 @@ M--> N[Enjoy the Cookies!]
 11. Cool Cookies: Once baked, let the cookies cool on a rack.
 12. Eat the Cookies: Once cooled, the cookies are ready to be enjoyed!
 
-#Recipe for Chocolate Chip Cookies
+# Recipe for Chocolate Chip Cookies
 
 ## Ingredients
 
